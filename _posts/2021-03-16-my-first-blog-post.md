@@ -1,3 +1,7 @@
+---
+title: NEW-TO-GITHUB
+date: 2021-03-17
+---
 <h2>New to GitHub</h2>
 <p>I'm not going to edit much because I've learned that it's easy for me to mess something up by trying to get creative.
 I'm making this post in the middle of March, in 2021. At this moment, I'm in in the final semester of my MA in Linguistics at University
