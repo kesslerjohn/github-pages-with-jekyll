@@ -12,7 +12,6 @@
 <!-- Rad! This is my first html file. -->
 <body>
 <header>
-    <h1 title="Thou talk'st of nothing.">Follow your dreebs --> </h1>
 </header>
 <nav>
     <ul>
