@@ -1,5 +1,5 @@
 ---
-title: NEW-TO-GITHUB
+title: "New to Github"
 date: 2021-03-17
 ---
 <h2>New to GitHub</h2>
